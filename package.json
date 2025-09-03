@@ -1,0 +1,25 @@
+{
+  "name": "todofrontend",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "serve": "serve -s build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logesh314/springTodoFrontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Logesh314/springTodoFrontend/issues"
+  },
+  "homepage": "https://github.com/Logesh314/springTodoFrontend#readme",
+  "description": "",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
