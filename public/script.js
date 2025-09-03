@@ -1,5 +1,5 @@
 // Shared script for login, register, and todos pages
-const SERVER_URL = "https://springtodobackend-production.up.railway.app/";
+const SERVER_URL = "https://springtodobackend-production.up.railway.app";
 const token = localStorage.getItem("token");
 
 // Login page logic
